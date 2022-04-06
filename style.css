@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+#odin {
+  color: burlywood;
+}
+h1 {
+  color: brown;
+  font-weight: 500;
+}
+ul {
+  list-style: none;
+  background-color: beige;
+}
